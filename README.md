@@ -4,3 +4,7 @@
 
 Requirement : python 3.x, Selenium
 ###
+# Selenium 설치
+pip install selenium
+
+# 웹드라이버 설치

@@ -1,2 +1,9 @@
 debug.log
 .vscode/settings.json
+chromedriver.exe
+dist
+build
+.vscode
+__pycache__
+cc.exe
+cc.exe.spec
